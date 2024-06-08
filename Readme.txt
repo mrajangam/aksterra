@@ -58,7 +58,7 @@ az aks get-credentials --resource-group "integral-polliwog-rg" --name "integral-
 ----------------------------------------------------------------------------------------------------------
 
 Stage IV : Run containerized (nginx) application in this cluster
-Note : The "Manifest files such as "deployment" , "Services" kept in the folder "C:\Users\prave\Documents\azure\aksexercise"
+Note : The "Manifest files such as "deployment" , "Services" kept in "mrajangam/exe1" in GitHub , also kept a copy in the folder "C:\Users\prave\Documents\azure\aksexercise" 
 
 Step 1 : Change to the folder "deployment.yaml" & "service.yaml"and use kubectl command to apply
 
